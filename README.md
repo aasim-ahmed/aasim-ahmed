@@ -1,7 +1,18 @@
-👋 Hi, I’m Aasim Ahmed!
+# Hi, I'm Aasim Ahmed 👋
 
-👀 Passionate MERN Stack Developer with a focus on building sleek, responsive user interfaces using React and developing scalable full-stack applications with Node.js, Express, and MongoDB.
-🌱 Currently honing my backend skills to create robust RESTful APIs, database architectures, and optimized server-side logic.
-📫 You can reach me via my GitHub: @aasim-ahmed or drop me a message!
-😄 Pronouns: He/Him
-⚡ Fun Fact: I can code for hours fueled by coffee and a great playlist, but my debugging superpower kicks in only after midnight! 🚀
+I'm a **Software Engineer** and **Founder of Zapprex Technologies**, passionate about building production-ready Full Stack applications that solve real business problems.
+
+I specialize in designing scalable web applications using **React, Node.js, Express.js, NestJS, PostgreSQL, and TypeScript**, with a strong focus on clean architecture, backend development, and modern user experiences.
+
+Currently, I'm focused on strengthening my software engineering skills, building impactful projects, and preparing for Full Stack and Backend Software Engineer opportunities at product companies, startups, and remote teams.
+---
+
+## 🚀 Current Focus
+
+- Building production-ready Full Stack applications
+- Backend architecture with Node.js & NestJS
+- Scalable REST APIs and PostgreSQL
+- System Design and Software Engineering
+- Preparing for Software Engineer opportunities
+
+---
