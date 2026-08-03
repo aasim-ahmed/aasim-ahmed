@@ -50,7 +50,6 @@ I enjoy building software that solves real business problems through clean archi
 
 I believe great software is not just about writing code—it's about understanding users, simplifying workflows, and delivering reliable products that create real value.
 
----
 
 ---
 
