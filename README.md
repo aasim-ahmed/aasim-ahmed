@@ -1,4 +1,10 @@
-# Hi, I'm Aasim Ahmed 👋
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Aasim Ahmed Banner">
+</p>
+
+<br>
+
+<h1 align="center">Hi, I'm Aasim Ahmed 👋</h1>
 
 I'm a **Software Engineer** and **Founder of Zapprex Technologies**, passionate about building production-ready Full Stack applications that solve real business problems.
 
@@ -261,23 +267,21 @@ When building software, I focus on:
 - Software Architecture
 ---
 
+
+
 # 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aasim-ahmed&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasim-ahmed&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aasim-ahmed&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aasim-ahmed&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aasim-ahmed&theme=github-compact&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aasim-ahmed&theme=github-compact&hide_border=true"/>
+</p>
 
 ---
+
 # 🤝 Let's Connect
 
 I'm always open to discussing software engineering, backend architecture, scalable web applications, startup ideas, and exciting opportunities.
