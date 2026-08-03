@@ -23,7 +23,6 @@ Currently, I'm focused on strengthening my software engineering skills, building
 
 ---
 
----
 
 # 🏆 Professional Highlights
 
